@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Một ứng dụng React để hiển thị chi tiết sách.",
+  "author": "Your Name <your.email@example.com>",
   "dependencies": {
     "axios": "^0.27.2",
     "bootstrap": "^4.6.0",
