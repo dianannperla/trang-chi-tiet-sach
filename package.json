@@ -2,6 +2,7 @@
   "name": "trang-chi-tiet-sach",
   "version": "1.0.0",
   "private": true,
+  "description": "Một ứng dụng React để hiển thị chi tiết sách.",
   "dependencies": {
     "axios": "^0.27.2",
     "bootstrap": "^4.6.0",
